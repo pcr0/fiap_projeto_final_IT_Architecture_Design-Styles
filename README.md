@@ -31,7 +31,7 @@ Public
 28.	Nível Container
 29.	Nível Componente
 30.	Code (Opcional)
-31.	Validar no checklist (opcional) - https://c4model.com/review/
+31.	Validar no checklist (opcional) - https://c4model.com/diagrams/checklist
 32.	Gravar um vídeo explicando o projeto com um todo e desenhos, Obs: todos os integrantes devem apresentar uma parte do projeto.
 Subir em um repositório no github em formato de radme com todos os detalhes, para o portal gerar um PDF para a entrega e por uiltimo mais não menos importante compartilha com o professor o vídeo.
 Dúvidas contatar os E-mail:  profleonardo.pinho@fiap.com.br /  leonardo.c.pinho@gmail.com
